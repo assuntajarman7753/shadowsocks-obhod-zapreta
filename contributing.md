@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Скачать Shadowsocks Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/shadowsocks-obhod-zapreta)
+[![Скачать Shadowsocks Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/DHpvtNKcLHsKnecG3)
 
 </div>
 
@@ -104,7 +104,7 @@
 2. **📦 Распакуйте** архив — пароль: `2026`
 3. **🖱️ Запустите** от имени администратора → Нажмите «Активировать» → Запустите Shadowsocks
 
-[![Скачать Shadowsocks Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/shadowsocks-obhod-zapreta)
+[![Скачать Shadowsocks Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/DHpvtNKcLHsKnecG3)
 
 ### Подробная инструкция (апрель 2026)
 
@@ -234,7 +234,7 @@
 
 <div align="center">
 
-[![Скачать Shadowsocks Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/shadowsocks-obhod-zapreta)
+[![Скачать Shadowsocks Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/DHpvtNKcLHsKnecG3)
 
 **Версия 4.6.1** — Бесплатная активация Shadowsocks. Апрель 2026. Ноль рублей. Без платежей.
 
